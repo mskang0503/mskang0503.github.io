@@ -30,10 +30,6 @@ Jae Hyung Ju*, Jaiyoung Park*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee 
 Rashmi Agrawal, Jung Ho Ahn, Flavio Bergamaschi, Ro Cammarota, Jung Hee Cheon, Fillipe D. M. de Souza, Huijing Gong, Minsik Kang, Duhyeong Kim, Jongmin Kim, Hubert de Lassus, Jai Hyun Park, Michael Steiner and Wen Wang      
 **WAHC 2023**
 
-1. [WTK+23] "Intel  HERACLES: Homomorphic Encryption Revolutionary Accelerator with Correctness for Learning-oriented End-to-End Solutions"        
-Jae Hyung Ju*, Jaiyoung Park*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn
-**GOMACTech 2023**
-
 
 ## Journal
 
@@ -47,7 +43,7 @@ Jung Hee Cheon, Minsik Kang†, Taeseong Kim, Junyoung Jung, Yongdong Yeo
 1. [[CKP+25]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”  
 Jung Hee Cheon, Minsik Kang, Junho Lee  
 
-1. [[CCK+19]](https://eprint.iacr.org/2019/195.pdf) "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem"  
+1. [[CCK+19]](https://eprint.iacr.org/2019/195.pdf) "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem"  \
 Jung Hee Cheon, Wonhee Cho, Minsik Kang, Jiseung Kim, Changmin Lee
 
 
