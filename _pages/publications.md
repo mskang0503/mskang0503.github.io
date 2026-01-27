@@ -38,7 +38,7 @@ Jae Hyung Ju*, Jaiyoung Park*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee 
 ## Journal
 
 1. [[BCC+24]](https://eprint.iacr.org/2023/632.pdf) “Batch Inference on Deep Convolutional Neural Networks With Fully Homomorphic Encryption Using Channel-By-Channel Convolutions”  
-Jung Hee Cheon, Minsik Kang†, Taeseong Kim, Junyoung Jung, Yongdong Yeo<br/>
+Jung Hee Cheon, Minsik Kang†, Taeseong Kim, Junyoung Jung, Yongdong Yeo
 **IEEE Transactions on Dependable and Secure Computing, 2024**
 
 
