@@ -18,7 +18,7 @@ Jung Hee Cheon, Minsik Kang, Jai Hyun Park
 Jung Hee Cheon, Hyeongmin Choe, Minsik Kang, Jaehyung Kim, Seonghak Kim, Johannes Mono, Taeyeong Noh      
 **ACM CCS 2025**
 
-1. [[BCCK25]](https://eprint.iacr.org/2025/1865.pdf) "High-Throughput AES Transciphering using CKKS: Less than 1ms"      
+1. [[BCKK25]](https://eprint.iacr.org/2025/1865.pdf) "High-Throughput AES Transciphering using CKKS: Less than 1ms"      
 Youngjin Bae, Jung Hee Cheon, Minsik Kang, Taeseong Kim      
 **WAHC 2025**
 
