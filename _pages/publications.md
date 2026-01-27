@@ -14,16 +14,15 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 Jung Hee Cheon, Minsik Kang, Jai Hyun Park    
 **ACM ASIACCS 2026**
 
-1. [[CCK+25]](https://eprint.iacr.org/2024/1014.pdf) "Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS"  
+1. [[CCK+25]](https://eprint.iacr.org/2024/1014.pdf) "Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS"
 Jung Hee Cheon, Hyeongmin Choe, Minsik Kang, Jaehyung Kim, Seonghak Kim, Johannes Mono, Taeyeong Noh
 **ACM CCS 2025**
 
-1. [[BCCK25]](https://eprint.iacr.org/2025/1865.pdf) "High-Throughput AES Transciphering using CKKS: Less than 1ms"  
+1. [[BCCK25]](https://eprint.iacr.org/2025/1865.pdf) "High-Throughput AES Transciphering using CKKS: Less than 1ms"
 Youngjin Bae, Jung Hee Cheon, Minsik Kang, Taeseong Kim
 **WAHC 2025**
 
-1. [[CKK+21]](https://dl.acm.org/doi/pdf/10.1145/3658644.3690375) “NeuJeans: Private Neural Network Inference with Joint Optimization of
-Convolution and FHE Bootstrapping”  
+1. [[CKK+21]](https://dl.acm.org/doi/pdf/10.1145/3658644.3690375) “NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping”  
 Jae Hyung Ju*, Jaiyoung Park*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn
 **ACM CCS 2024**
 
