@@ -22,7 +22,7 @@ Jung Hee Cheon, Hyeongmin Choe, Minsik Kang, Jaehyung Kim, Seonghak Kim, Johanne
 Youngjin Bae, Jung Hee Cheon, Minsik Kang, Taeseong Kim      
 **WAHC 2025**
 
-1. [[CKK+21]](https://dl.acm.org/doi/pdf/10.1145/3658644.3690375) “NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping”        
+1. [[JPK+24]](https://dl.acm.org/doi/pdf/10.1145/3658644.3690375) “NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping”        
 Jae Hyung Ju*, Jaiyoung Park*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn      
 **ACM CCS 2024**
 
@@ -33,7 +33,7 @@ Rashmi Agrawal, Jung Ho Ahn, Flavio Bergamaschi, Ro Cammarota, Jung Hee Cheon, F
 
 ## Journal
 
-1. [[BCC+24]](https://eprint.iacr.org/2023/632.pdf) “Batch Inference on Deep Convolutional Neural Networks With Fully Homomorphic Encryption Using Channel-By-Channel Convolutions”        
+1. [[CKK+24]](https://eprint.iacr.org/2023/632.pdf) “Batch Inference on Deep Convolutional Neural Networks With Fully Homomorphic Encryption Using Channel-By-Channel Convolutions”        
 Jung Hee Cheon, Minsik Kang†, Taeseong Kim, Junyoung Jung, Yongdong Yeo      
 **IEEE Transactions on Dependable and Secure Computing, 2024**
 
