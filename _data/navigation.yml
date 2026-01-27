@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "CV"
+    url: https://mskang0503.github.io/files/cv/Minsik_Kang.pdf
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  # - title: "Links"
+  #   url: /links/       
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
