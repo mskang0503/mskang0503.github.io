@@ -23,7 +23,7 @@ Youngjin Bae, Jung Hee Cheon, Minsik Kang, Taeseong Kim
 **WAHC 2025**
 
 1. [[JPK+24]](https://dl.acm.org/doi/pdf/10.1145/3658644.3690375) “NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping”        
-Jae Hyung Ju*, Jaiyoung Park*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn      
+Jae Hyung Ju\*, Jaiyoung Park\*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn      
 **ACM CCS 2024**
 
 1. [[AAB+23]](https://eprint.iacr.org/2023/1462.pdf) "High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application"      
