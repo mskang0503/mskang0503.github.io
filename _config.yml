@@ -121,9 +121,9 @@ author:
     # - label: "ResearchGate"
     #   icon: "fab fa-fw fa-researchgate"
     #   url: "https://www.researchgate.net/profile/Duhyeong_Kim"
-    # - label: "DBLP"
-    #   icon: "fas fa-fw fa-book-open"
-    #   url: "https://dblp.org/pers/hd/k/Kim:Duhyeong"
+    - label: "DBLP"
+      icon: "fas fa-fw fa-book-open"
+      url: "https://dblp.org/pid/237/1555.html"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/minsik-kang-5a1a70263/"
@@ -151,9 +151,6 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
