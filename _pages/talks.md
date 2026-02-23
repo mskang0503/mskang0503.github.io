@@ -5,10 +5,19 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-To be updated
+
+1. Homomorphic Encryption from Mathematical Backgrounds  
+[Jan 2026] [[East Asian Core Doctorial Forum in Mathematics (EACDFM) 2026]](https://conference.math.snu.ac.kr/EACDFM2026), Seoul, Republic of Korea
+
+1. Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS
+[Oct 2025] [[ACM CCS 2025]](https://www.sigsac.org/ccs/CCS2025/), Taipei, Taiwan, [[[slides]]](https://mskang0503.github.io/files/slide/Grafting_CCS_2025.pdf)
+
+1. Towards Lightweight CKKS: On Client Cost Efficiency
+[Apr 2025] 2025 KMS Spring Meeting, Daejeon, Republic of Korea 
 
 
-<!-- 1. **High-Precision CKKS on small word-size architecture**   
+<!-- <!-- 
+1. **High-Precision CKKS on small word-size architecture**   
 [Jan 2024] Tech Talk at [FHE.org](https://FHE.org), Online [[slides]](https://du1204.github.io/files/slide/Composite_Scaling_FHEorg.pdf)[[video]](https://youtu.be/plbZy6UR9OI?si=VjC8BaOzX1ZwHbcE)     
   
 1. **Practical Proof-of-Knowledge based on Hint-LWE**   
