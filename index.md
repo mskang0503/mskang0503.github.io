@@ -14,11 +14,11 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 ## News and Upcoming Events
 
-- **Mar 2026**. I joined the Center for AI and Natural Sciences at KIAS as an AI Research Fellow.
+- [Mar 2026] I joined the Center for AI and Natural Sciences at KIAS as an AI Research Fellow.
 
-- **Feb 2026**. I received my Ph.D. from Seoul National University.
+- [Feb 2026] I received my Ph.D. from Seoul National University.
 
-- **Dec 2025**. The paper [[CKP26]](https://eprint.iacr.org/2025/720.pdf) entitled "Towards Lightweight CKKS: On Client Cost Efficiency" was accepted to ACM ASIACCS 2026.
+- [Dec 2025] The paper [[CKP26]](https://eprint.iacr.org/2025/720.pdf) entitled "Towards Lightweight CKKS: On Client Cost Efficiency" was accepted to ACM ASIACCS 2026.
 
 <!-- - The paper [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) entitled "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption" was published at [Scientific Reports](https://www.nature.com/srep/).  
 
