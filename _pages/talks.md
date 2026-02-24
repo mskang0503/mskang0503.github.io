@@ -13,7 +13,7 @@ author_profile: true
 [Oct 2025] [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), Taipei, Taiwan, [[slides]](https://mskang0503.github.io/files/slide/Grafting_CCS_2025.pdf)
 
 1. Towards Lightweight CKKS: On Client Cost Efficiency   
-[Apr 2025] 2025 KMS Spring Meeting, Daejeon, Republic of Korea 
+[Apr 2025] [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/), Daejeon, Republic of Korea 
 
 
 <!-- <!-- 
