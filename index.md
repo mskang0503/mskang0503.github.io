@@ -10,7 +10,7 @@ redirect_from:
 
 I am an AI Research Fellow in the Center for AI and Natural Science at Korea Institute of Advanced Study (KIAS). My major research topics are fully homomorphic encryption (FHE) and its applications to private-preserving machine learning (PPML) and private AI.
 
-I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) from Seoul National University under the supervision of [Prof. Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/)
+I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) from Seoul National University under the supervision of [Prof. Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/).
 
 ## News and Upcoming Events
 
@@ -63,5 +63,6 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 <!---
  - The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
 --->
+
 
 
