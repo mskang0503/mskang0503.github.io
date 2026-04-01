@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Minsik Kang (강민식)"
   avatar           : "/assets/images/Minsik_Kang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI Fellow (AI Assistant Professor) at KIAS"
+  bio              : "AI Fellow at KIAS"
   location         : "Seoul, Korea"
   email            :
   links:
