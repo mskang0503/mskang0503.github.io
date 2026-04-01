@@ -14,7 +14,7 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 ## News and Upcoming Events
 
-- [Mar 2026] I joined the Center for AI and Natural Sciences at KIAS as an AI Research Fellow.
+- [Mar 2026] I joined the Center for AI and Natural Sciences at KIAS as an AI Fellow (AI Assistant Professor).
 
 - [Feb 2026] I received my Ph.D. from Seoul National University.
 
