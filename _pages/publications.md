@@ -10,7 +10,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 ## Conference
 
-1. [[CKL26]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”      
+1. [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”      
 Jung Hee Cheon, Minsik Kang, Junho Lee      
 **CRYPTO 2026**
 
@@ -46,9 +46,6 @@ Jung Hee Cheon, Minsik Kang†, Taeseong Kim, Junyoung Jung, Yongdong Yeo
 
 1. [[CHK+26]](https://eprint.iacr.org/2026/853.pdf) “MRFHE: Mixed-Radix Fully Homomorphic Encryption with Better Batch Bootstrapping”  
 Jung Hee Cheon, Seungwan Hong, Minsik Kang, Jonghyun Kim, Taeseong Kim, Changmin Lee, Junho Lee
-
-1. [[CKP+25]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”  
-Jung Hee Cheon, Minsik Kang, Junho Lee  
 
 1. [[CCK+19]](https://eprint.iacr.org/2019/195.pdf) "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem"  
 Jung Hee Cheon, Wonhee Cho, Minsik Kang, Jiseung Kim, Changmin Lee
