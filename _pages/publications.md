@@ -14,7 +14,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 Jung Hee Cheon, Minsik Kang, Junho Lee      
 To appear in **CRYPTO 2026**
 
-1. [[CKP26]](https://eprint.iacr.org/2025/720.pdf) “Towards Lightweight CKKS: On Client Cost Efficiency”      
+1. [[CKP25]](https://eprint.iacr.org/2025/720.pdf) “Towards Lightweight CKKS: On Client Cost Efficiency”      
 Jung Hee Cheon, Minsik Kang, Jai Hyun Park      
 To appear in **ACM ASIACCS 2026**
 
