@@ -12,11 +12,11 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 1. [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”      
 Jung Hee Cheon, Minsik Kang, Junho Lee      
-**CRYPTO 2026**
+To appear in **CRYPTO 2026**
 
 1. [[CKP26]](https://eprint.iacr.org/2025/720.pdf) “Towards Lightweight CKKS: On Client Cost Efficiency”      
 Jung Hee Cheon, Minsik Kang, Jai Hyun Park      
-**ACM ASIACCS 2026**
+To appear in **ACM ASIACCS 2026**
 
 1. [[CCK+25]](https://eprint.iacr.org/2024/1014.pdf) "Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS"      
 Jung Hee Cheon, Hyeongmin Choe, Minsik Kang, Jaehyung Kim, Seonghak Kim, Johannes Mono, Taeyeong Noh      
