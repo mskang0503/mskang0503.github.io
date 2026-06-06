@@ -45,7 +45,7 @@ Jung Hee Cheon, Minsik Kang†, Taeseong Kim, Junyoung Jung, Yongdong Yeo
 ## Preprints
 
 1. [[CHK+26]](https://eprint.iacr.org/2026/853.pdf) “MRFHE: Mixed-Radix Fully Homomorphic Encryption with Better Batch Bootstrapping”  
-Jung Hee Cheon, Seungwan Hong, Minsik Kang, Jonghyun Kim, Taeseong Kim, Changmin Lee, Junho Lee
+Jung Hee Cheon, Seungwan Hong, Minsik Kang†, Jonghyun Kim, Taeseong Kim, Changmin Lee, Junho Lee
 
 1. [[CCK+19]](https://eprint.iacr.org/2019/195.pdf) "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem"  
 Jung Hee Cheon, Wonhee Cho, Minsik Kang, Jiseung Kim, Changmin Lee
