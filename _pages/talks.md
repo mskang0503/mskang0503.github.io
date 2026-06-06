@@ -14,6 +14,7 @@ author_profile: true
 
 1. Towards Lightweight CKKS: On Client Cost Efficiency   
 [Apr 2025] [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/), Daejeon, Republic of Korea 
+[Jun 2026] [ACM ASIACCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/), Bangalore, India 
 
 
 <!-- <!-- 
