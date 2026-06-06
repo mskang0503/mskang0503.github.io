@@ -14,7 +14,7 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 ## News and Upcoming Events
 
-- [Jun 2026] I presented our work ["Towards Lightweight CKKS: On Client Cost Efficiency"](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
+- [Jun 2026] I presented our work [Towards Lightweight CKKS: On Client Cost Efficiency](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
 
 - [May 2026] The paper [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) entitled "Fast Batch Matrix Multiplication in Ciphertexts" was accepted to CRYPTO 2026.
 
