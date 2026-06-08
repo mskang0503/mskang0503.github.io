@@ -6,16 +6,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. Towards Lightweight CKKS: On Client Cost Efficiency   
+[Jun 2026] [ACM ASIACCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/), Bengaluru, India, [[slides]](https://mskang0503.github.io/files/slide/asiaccs_2026.pdf)
+<br>
+[Apr 2025] [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/), Daejeon, Republic of Korea.
+
 1. Homomorphic Encryption from Mathematical Backgrounds   
 [Jan 2026] [East Asian Core Doctorial Forum in Mathematics (EACDFM) 2026](https://conference.math.snu.ac.kr/EACDFM2026), Seoul, Republic of Korea
 
 1. Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS   
 [Oct 2025] [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), Taipei, Taiwan, [[slides]](https://mskang0503.github.io/files/slide/Grafting_CCS_2025.pdf)
-
-1. Towards Lightweight CKKS: On Client Cost Efficiency   
-[Jun 2026] [ACM ASIACCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/), Bangalore, India, [[slides]](https://mskang0503.github.io/files/slide/asiaccs_2026.pdf)
-<br>
-[Apr 2025] [2025 KMS Spring Meeting](https://www.kms.or.kr/conference/2025_spring/), Daejeon, Republic of Korea.
 
 
 <!-- <!-- 
