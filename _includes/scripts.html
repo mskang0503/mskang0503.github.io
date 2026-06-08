@@ -46,8 +46,12 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll('a[href^="http"]').forEach(function(link) {
-      if (link.hostname !== window.location.hostname) {
+    document.querySelectorAll('a[href]').forEach(function(link) {
+      var href = link.getAttribute('href');
+      if (!href) return;
+      var isExternal = link.hostname && link.hostname !== window.location.hostname;
+      var isPdf = href.match(/\.pdf(\?.*)?$/i);
+      if (isExternal || isPdf) {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
       }
