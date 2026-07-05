@@ -10,11 +10,11 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 ## Conference
 
-1. [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”      
+1. [[CKL26]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”      
 Jung Hee Cheon, Minsik Kang, Junho Lee      
 **CRYPTO 2026**, to appear
 
-1. [[CKP25]](https://eprint.iacr.org/2025/720.pdf) “Towards Lightweight CKKS: On Client Cost Efficiency”      
+1. [[CKP26]](https://eprint.iacr.org/2025/720.pdf) “Towards Lightweight CKKS: On Client Cost Efficiency”      
 Jung Hee Cheon, Minsik Kang, Jai Hyun Park      
 **ACM ASIACCS 2026**
 
