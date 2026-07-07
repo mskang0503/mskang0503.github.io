@@ -14,7 +14,7 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 ## News and Upcoming Events
 
-- [Jun 2026] I participated and presented FHE tutorioal at [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026).
+- [Jun 2026] I gave an invited talk on the FHE tutorioal at [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026).
 
 - [Jun 2026] I presented our work [Towards Lightweight CKKS: On Client Cost Efficiency](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
 
