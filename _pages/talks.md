@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 1. Tutorial on Fully Homomorphic Encryption (FHE)
-[Jun 2026] [PACOH Workshop: Homomorphic Encryption 2026](https://conference.math.snu.ac.kr/EACDFM2026), Sokcho, Republic of Korea, [[slides]](https://mskang0503.github.io/files/slide/pacoh_tutorial.pptx)
+[Jun 2026] [PACOH Workshop: Homomorphic Encryption 2026](https://symposia.kias.re.kr/pacoh-he2026), Sokcho, Republic of Korea, [[slides]](https://mskang0503.github.io/files/slide/pacoh_tutorial.pptx)
 
 1. Towards Lightweight CKKS: On Client Cost Efficiency   
 [Jun 2026] [ACM ASIACCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/), Bengaluru, India, [[slides]](https://mskang0503.github.io/files/slide/asiaccs_2026.pdf)
