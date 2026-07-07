@@ -6,7 +6,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. FHE Tutorial   
+1. Tutorial on FHE
 [Jun 2026] [PACOH Workshop: Homomorphic Encryption 2026](https://conference.math.snu.ac.kr/EACDFM2026), Sokcho, Republic of Korea, [[slides]](https://mskang0503.github.io/files/slide/pacoh_tutorial.pptx)
 
 1. Towards Lightweight CKKS: On Client Cost Efficiency   
