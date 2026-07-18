@@ -14,6 +14,8 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 ## News and Upcoming Events
 
+- [Jul 2026] The paper "New IND-CPA-D Attacks on BFV and BGV" was accepted to ACM CCS 2026.
+
 - [Jun 2026] I gave an invited talk on the FHE tutorioal at [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026).
 
 - [Jun 2026] I presented our work [Towards Lightweight CKKS: On Client Cost Efficiency](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
@@ -24,7 +26,6 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 - [Feb 2026] I received my Ph.D. from Seoul National University.
 
-- [Dec 2025] The paper [[CKP26]](https://eprint.iacr.org/2025/720.pdf) entitled "Towards Lightweight CKKS: On Client Cost Efficiency" was accepted to ACM ASIACCS 2026.
 
 <!-- - The paper [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) entitled "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption" was published at [Scientific Reports](https://www.nature.com/srep/).  
 

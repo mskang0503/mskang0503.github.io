@@ -10,6 +10,10 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 ## Conference
 
+1. [[CKS26]] “New IND-CPA-D Attacks on BFV and BGV”      
+Hyeongmin Choe, Minsik Kang, Damien Stehlé      
+**ACM CCS 2026**, to appear 
+
 1. [[CKL26]](https://eprint.iacr.org/2025/1957.pdf) “Fast Batch Matrix Multiplication in Ciphertexts”      
 Jung Hee Cheon, Minsik Kang, Junho Lee      
 **CRYPTO 2026**, to appear
