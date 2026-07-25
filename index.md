@@ -16,7 +16,7 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 - [Jul 2026] Our paper "New IND-CPA-D Attacks on BFV and BGV" was accepted to ACM CCS 2026.
 
-- [Jun 2026] I gave an invited talk on the FHE tutorioal at [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026).
+- [Jun 2026] I served as an organizer for the [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026) and presented an FHE tutorial.
 
 - [Jun 2026] I presented our work [Towards Lightweight CKKS: On Client Cost Efficiency](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
 
