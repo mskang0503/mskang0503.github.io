@@ -14,7 +14,7 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 ## News and Upcoming Events
 
-- [Aug 2026] Our paper "Fast Batch Matrix Multiplication in Ciphertexts" [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) was presented at Crypto 2026.
+- [Aug 2026] Our paper [Fast Batch Matrix Multiplication in Ciphertexts](https://eprint.iacr.org/2025/1957.pdf) was presented at Crypto 2026.
 
 - [Jul 2026] Our paper "New IND-CPA-D Attacks on BFV and BGV" was accepted to ACM CCS 2026.
 
