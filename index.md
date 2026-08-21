@@ -14,13 +14,13 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 ## News and Upcoming Events
 
-- [Aug 2026] Our paper [Fast Batch Matrix Multiplication in Ciphertexts](https://eprint.iacr.org/2025/1957.pdf) was presented at Crypto 2026.
+- [Aug 2026] Our paper "Fast Batch Matrix Multiplication in Ciphertexts" [[CKL26]](https://eprint.iacr.org/2025/1957.pdf) was presented at Crypto 2026.
 
 - [Jul 2026] Our paper "New IND-CPA-D Attacks on BFV and BGV" was accepted to ACM CCS 2026.
 
 - [Jun 2026] I served as an organizer for the [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026) and presented an FHE tutorial.
 
-- [Jun 2026] I presented our work [Towards Lightweight CKKS: On Client Cost Efficiency](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
+- [Jun 2026] I presented our work "Towards Lightweight CKKS: On Client Cost Efficiency" [[CKP26]](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
 
 - [May 2026] Our paper [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) entitled "Fast Batch Matrix Multiplication in Ciphertexts" was accepted to CRYPTO 2026.
 
