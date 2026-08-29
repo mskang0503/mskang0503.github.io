@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Fellow (AI Assistant Professor) at the Center for AI and Natural Science at Korea Institute of Advanced Study (KIAS). My major research topics are fully homomorphic encryption (FHE) and its applications to private-preserving machine learning (PPML) and private AI.
+I am an Assistant Professor at the Department of Cyber Defense, Sejong University. I received my Ph.D. in Mathematical Sciences (specializing in Cryptography) from Seoul National University under the supervision of [Prof. Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/). Before joining Sejong University, I was an AI Fellow (AI Assistant Professor) at the Center for AI and Natural Science at Korea Institute of Advanced Study (KIAS). 
 
-I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) from Seoul National University under the supervision of [Prof. Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/).
+My major research topics are fully homomorphic encryption (FHE) and its applications to private-preserving machine learning (PPML) and private AI.
 
 ## News and Upcoming Events
 
-- [Aug 2026] Our paper "Fast Batch Bootstrapping in CKKS" was accepted to ASIACRYPT 2026!
+- [Sep 2026] I joined Sejong University as an Assistant Professor.
 
-- [Aug 2026] Our paper "Fast Batch Matrix Multiplication in Ciphertexts" [[CKL26]](https://eprint.iacr.org/2025/1957.pdf) was presented at Crypto 2026.
+- [Aug 2026] Our paper "Fast Batch Bootstrapping in CKKS" was accepted to ASIACRYPT 2026.
 
-- [Jul 2026] Our paper "New IND-CPA-D Attacks on BFV and BGV" was accepted to ACM CCS 2026!
+- [Aug 2026] Our paper "Fast Batch Matrix Multiplication in Ciphertexts" [[CKL26]](https://eprint.iacr.org/2025/1957.pdf) was presented at CRYPTO 2026.
+
+- [Jul 2026] Our paper "New IND-CPA-D Attacks on BFV and BGV" was accepted to ACM CCS 2026.
 
 - [Jun 2026] I served as an organizer for the [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026) and presented an FHE tutorial.
 
@@ -28,7 +30,7 @@ I completed my Ph.D. in Mathematical Sciences (specializing in Cryptography) fro
 
 - [Mar 2026] I joined the Center for AI and Natural Sciences at KIAS as an AI Fellow (AI Assistant Professor).
 
-- [Feb 2026] I received my Ph.D. from Seoul National University.
+<!-- - [Feb 2026] I received my Ph.D. from Seoul National University. -->
 
 
 <!-- - The paper [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) entitled "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption" was published at [Scientific Reports](https://www.nature.com/srep/).  
