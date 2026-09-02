@@ -26,9 +26,9 @@ My major research topics are fully homomorphic encryption (FHE) and its applicat
 
 - [Jun 2026] I presented our work "Towards Lightweight CKKS: On Client Cost Efficiency" [[CKP26]](https://eprint.iacr.org/2025/720.pdf) at ACM ASIACCS 2026.
 
-- [May 2026] Our paper [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) entitled "Fast Batch Matrix Multiplication in Ciphertexts" was accepted to CRYPTO 2026.
+- [May 2026] Our paper "Fast Batch Matrix Multiplication in Ciphertexts" [[CKL25]](https://eprint.iacr.org/2025/1957.pdf) was accepted to CRYPTO 2026.
 
-- [Mar 2026] I joined the Center for AI and Natural Sciences at KIAS as an AI Fellow (AI Assistant Professor).
+<!-- - [Mar 2026] I joined the Center for AI and Natural Sciences at KIAS as an AI Fellow (AI Assistant Professor). -->
 
 <!-- - [Feb 2026] I received my Ph.D. from Seoul National University. -->
 
