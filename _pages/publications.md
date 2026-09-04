@@ -24,7 +24,7 @@ Jung Hee Cheon, Minsik Kang, Junho Lee
 
 1. [[CKP26]](https://eprint.iacr.org/2025/720.pdf) “Towards Lightweight CKKS: On Client Cost Efficiency”      
 Jung Hee Cheon, Minsik Kang, Jai Hyun Park      
-**ACM ASIACCS 2026**
+**ACM AsiaCCS 2026**
 
 1. [[CCK+25]](https://eprint.iacr.org/2024/1014.pdf) "Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS"      
 Jung Hee Cheon, Hyeongmin Choe, Minsik Kang, Jaehyung Kim, Seonghak Kim, Johannes Mono, Taeyeong Noh      
