@@ -32,6 +32,10 @@ My major research topics are fully homomorphic encryption (FHE) and its applicat
 
 <!-- - [Feb 2026] I received my Ph.D. from Seoul National University. -->
 
+## Selected Publications
+{% include publication-list.html selected=true %}
+[See all publications &rarr;]({{ '/publications/' | relative_url }})
+
 
 <!-- - The paper [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) entitled "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption" was published at [Scientific Reports](https://www.nature.com/srep/).  
 

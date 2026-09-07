@@ -1,0 +1,106 @@
+# Master list of publications.
+#
+# Rendered in two places:
+#   - _pages/publications.md : every entry, grouped by `type`
+#   - index.md               : entries with `selected: true`
+#
+# Fields
+#   key      : citation label shown in brackets, e.g. CKL26
+#   link     : URL for the label. Omit for papers with no public link yet.
+#   title    : plain title, quotes are added by the template
+#   authors  : author list as displayed (escape asterisks as \*, use † for corresponding)
+#   venue    : bolded venue line. Omit for preprints.
+#   note     : appended after the venue, e.g. "to appear"
+#   type     : conference | journal | preprint  (controls the section on /publications/)
+#   selected : true to also show it on the front page
+#
+# Order within this file is the order shown on the site.
+
+# ---------------------------------------------------------------- conference
+- key: CKL26
+  title: 'Fast Batch Bootstrapping in CKKS'
+  authors: 'Jung Hee Cheon, Minsik Kang, Junho Lee'
+  venue: 'ASIACRYPT 2026'
+  note: 'to appear'
+  type: conference
+  selected: true
+
+- key: CKS26
+  title: 'New IND-CPA-D Attacks on BFV and BGV'
+  authors: 'Hyeongmin Choe, Minsik Kang, Damien Stehlé'
+  venue: 'ACM CCS 2026'
+  note: 'to appear'
+  type: conference
+  selected: true
+
+- key: CKL26
+  link: 'https://eprint.iacr.org/2025/1957.pdf'
+  title: 'Fast Batch Matrix Multiplication in Ciphertexts'
+  authors: 'Jung Hee Cheon, Minsik Kang, Junho Lee'
+  venue: 'CRYPTO 2026'
+  type: conference
+  selected: true
+
+- key: CKP26
+  link: 'https://eprint.iacr.org/2025/720.pdf'
+  title: 'Towards Lightweight CKKS: On Client Cost Efficiency'
+  authors: 'Jung Hee Cheon, Minsik Kang, Jai Hyun Park'
+  venue: 'ACM AsiaCCS 2026'
+  type: conference
+  selected: false
+
+- key: CCK+25
+  link: 'https://eprint.iacr.org/2024/1014.pdf'
+  title: 'Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS'
+  authors: 'Jung Hee Cheon, Hyeongmin Choe, Minsik Kang, Jaehyung Kim, Seonghak Kim, Johannes Mono, Taeyeong Noh'
+  venue: 'ACM CCS 2025'
+  type: conference
+  selected: true
+
+- key: BCKK25
+  link: 'https://eprint.iacr.org/2025/1865.pdf'
+  title: 'High-Throughput AES Transciphering using CKKS: Less than 1ms'
+  authors: 'Youngjin Bae, Jung Hee Cheon, Minsik Kang, Taeseong Kim'
+  venue: 'WAHC 2025'
+  type: conference
+  selected: false
+
+- key: JPK+24
+  link: 'https://dl.acm.org/doi/pdf/10.1145/3658644.3690375'
+  title: 'NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping'
+  authors: 'Jae Hyung Ju\*, Jaiyoung Park\*, Jongmin Kim, Minsik Kang, Donghwan Kim, Jung Hee Cheon, Jung Ho Ahn'
+  venue: 'ACM CCS 2024'
+  type: conference
+  selected: true
+
+- key: AAB+23
+  link: 'https://eprint.iacr.org/2023/1462.pdf'
+  title: 'High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application'
+  authors: 'Rashmi Agrawal, Jung Ho Ahn, Flavio Bergamaschi, Ro Cammarota, Jung Hee Cheon, Fillipe D. M. de Souza, Huijing Gong, Minsik Kang, Duhyeong Kim, Jongmin Kim, Hubert de Lassus, Jai Hyun Park, Michael Steiner and Wen Wang'
+  venue: 'WAHC 2023'
+  type: conference
+  selected: false
+
+# ------------------------------------------------------------------- journal
+- key: CKK+24
+  link: 'https://eprint.iacr.org/2023/632.pdf'
+  title: 'Batch Inference on Deep Convolutional Neural Networks With Fully Homomorphic Encryption Using Channel-By-Channel Convolutions'
+  authors: 'Jung Hee Cheon, Minsik Kang†, Taeseong Kim, Junyoung Jung, Yongdong Yeo'
+  venue: 'IEEE Transactions on Dependable and Secure Computing, 2024'
+  type: journal
+  selected: false
+
+# ------------------------------------------------------------------ preprint
+- key: CHK+26
+  link: 'https://eprint.iacr.org/2026/853.pdf'
+  title: 'MRFHE: Mixed-Radix Fully Homomorphic Encryption with Better Batch Bootstrapping'
+  authors: 'Jung Hee Cheon, Seungwan Hong, Minsik Kang†, Jonghyun Kim, Taeseong Kim, Changmin Lee, Junho Lee'
+  type: preprint
+  selected: false
+
+- key: CCK+19
+  link: 'https://eprint.iacr.org/2019/195.pdf'
+  title: 'Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem'
+  authors: 'Jung Hee Cheon, Wonhee Cho, Minsik Kang, Jiseung Kim, Changmin Lee'
+  type: preprint
+  selected: false

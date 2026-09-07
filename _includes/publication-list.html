@@ -1,0 +1,16 @@
+{%- comment -%}
+Renders entries from _data/publications.yml as a numbered markdown list.
+
+Usage:
+  {% include publication-list.html type="conference" %}   only that type
+  {% include publication-list.html selected=true %}       only front-page picks
+  {% include publication-list.html %}                     everything
+
+Output is markdown (kramdown/GFM), so the two trailing spaces below are
+meaningful hard line breaks -- do not strip them.
+{%- endcomment -%}
+{% for p in site.data.publications %}{% if include.selected and p.selected != true %}{% continue %}{% endif %}{% if include.type and p.type != include.type %}{% continue %}{% endif %}
+1. {% if p.link %}[[{{ p.key }}]]({{ p.link }}){% else %}[{{ p.key }}]{% endif %} "{{ p.title }}"  
+{{ p.authors }}{% if p.venue %}  
+**{{ p.venue }}**{% if p.note %}, {{ p.note }}{% endif %}{% endif %}
+{% endfor %}
