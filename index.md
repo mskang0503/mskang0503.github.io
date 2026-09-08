@@ -33,7 +33,7 @@ My major research topics are fully homomorphic encryption (FHE) and its applicat
 <!-- - [Feb 2026] I received my Ph.D. from Seoul National University. -->
 
 ## Selected Publications
-{% include publication-list.html selected=true %}
+{% include publication-list.html selected=true bullet=true %}
 [See all publications &rarr;]({{ '/publications/' | relative_url }})
 
 
