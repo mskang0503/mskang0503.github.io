@@ -6,6 +6,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. Fast Batch Bootstrapping in CKKS   
+[Oct 2026] Invited talk at Seoul National University, Seoul, Republic of Korea.
+
 1. Tutorial on FHE   
 [Jun 2026] [PACOH Workshop: Homomorphic Encryption 2026](https://symposia.kias.re.kr/pacoh-he2026), Sokcho, Republic of Korea, [[slides]](https://mskang0503.github.io/files/slide/pacoh_tutorial.pptx)
 

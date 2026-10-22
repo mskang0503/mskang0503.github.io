@@ -18,9 +18,9 @@ My major research topics are fully homomorphic encryption (FHE) and its applicat
 
 - [Aug 2026] Our paper "Fast Batch Bootstrapping in CKKS" was accepted to ASIACRYPT 2026.
 
-- [Aug 2026] Our paper "Fast Batch Matrix Multiplication in Ciphertexts" [[CKL26]](https://eprint.iacr.org/2025/1957.pdf) was presented at CRYPTO 2026.
+- [Aug 2026] Our paper "Fast Batch Matrix Multiplication in Ciphertexts" [[CKL26b]](https://eprint.iacr.org/2025/1957.pdf) was presented at CRYPTO 2026.
 
-- [Jul 2026] Our paper "New IND-CPA-D Attacks on BFV and BGV" was accepted to ACM CCS 2026.
+- [Jul 2026] Our paper "New IND-CPA-D Attacks on BFV and BGV" [[CKS26]](https://eprint.iacr.org/2026/2546.pdf) was accepted to ACM CCS 2026.
 
 - [Jun 2026] I served as an organizer for the [PACOH workshop](https://symposia.kias.re.kr/pacoh-he2026) and presented an FHE tutorial.
 
