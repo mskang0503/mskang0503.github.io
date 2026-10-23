@@ -17,7 +17,7 @@
 # Order within this file is the order shown on the site.
 
 # ---------------------------------------------------------------- conference
-- key: CKL26a
+- key: CKL26b
   title: 'Fast Batch Bootstrapping in CKKS'
   authors: 'Jung Hee Cheon, Minsik Kang, Junho Lee'
   venue: 'ASIACRYPT 2026'
@@ -34,7 +34,7 @@
   type: conference
   selected: true
 
-- key: CKL26b
+- key: CKL26a
   link: 'https://eprint.iacr.org/2025/1957.pdf'
   title: 'Fast Batch Matrix Multiplication in Ciphertexts'
   authors: 'Jung Hee Cheon, Minsik Kang, Junho Lee'
